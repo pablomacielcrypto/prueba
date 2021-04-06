@@ -24,24 +24,4 @@ public class Show {
 
 	// METODOS
 
-	public int getIdShow() {
-		return idShow;
-	}
-
-	public void setIdShow(int idShow) {
-		this.idShow = idShow;
-	}
-	public Evento getEvento() {
-		return evento;
-	}
-	
-	public void setEvento(Evento evento) {
-		this.evento = evento;
-	}
-
-	@Override
-	public String toString() {
-		return "Show [idShow=" + idShow + "]";
-	}
-}
 
